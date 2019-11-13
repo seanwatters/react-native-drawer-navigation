@@ -1,5 +1,3 @@
-_still being written..............._
-
 # React Native - Drawer Navigation
 
 ![header](https://cdn-images-1.medium.com/max/1600/1*bBfysBVGiuhHI-ROMOuUbg.png)
@@ -15,6 +13,9 @@ Updated/new files are included in the tree below; all other files were generated
 ```
 |- assets
 |- components
+    |- DrawerTrigger.js   // opens drawer
+    |- Header.js           // contains DrawerTrigger
+    
     |- ScreenName.js   // component rendered in each view
     
 |- navigation
