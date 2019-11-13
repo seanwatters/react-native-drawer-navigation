@@ -29,4 +29,4 @@ Updated/new files are included in the tree below; all other files were generated
 |- App.js
 |- app.json
 ```
-**The full repository for the [React Native - Drawer Navigation](https://medium.com/@sean_watters) blog post.** 
+**The full repository for the [React Native - Drawer Navigation](https://medium.com/@sean_watters/react-native-drawer-navigation-3a2a1aea21a0) blog post.** 
