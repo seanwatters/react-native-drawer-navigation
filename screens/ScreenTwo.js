@@ -2,6 +2,7 @@ import React from 'react';
 import { View, StyleSheet } from 'react-native';
 
 import ScreenName from '../components/ScreenName.js'
+import Header from '../components/Header.js'
 
 export default class ScreenTwo extends React.Component {
 
@@ -11,9 +12,12 @@ export default class ScreenTwo extends React.Component {
 
   render() {
     return (
-      <View style={styles.container}>
-        <ScreenName name={'Screen Two'} />
-      </View>
+      <React.Fragment>
+        <Header />
+        <View style={styles.container}>
+          <ScreenName name={'Screen Two'} />
+        </View>
+      </React.Fragment>
     );
   }
 }
