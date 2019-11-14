@@ -1,5 +1,7 @@
 # React Native - Drawer Navigation
 
+<b>Published in <a href="https://medium.com/better-programming">The Better Programming</a></b>
+
 ![header](https://cdn-images-1.medium.com/max/1600/1*bBfysBVGiuhHI-ROMOuUbg.png)
 
 <p align=center>Photo by Samuel Zeller on Unsplash</p>
