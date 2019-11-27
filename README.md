@@ -1,6 +1,6 @@
 # React Native - Drawer Navigation
 
-<b>Published in <a href="https://medium.com/better-programming">Better Programming</a></b>
+<b>Published in <a href="https://medium.com/better-programming/react-native-drawer-navigation-3a2a1aea21a0">Better Programming</a></b>
 
 ![header](https://cdn-images-1.medium.com/max/1600/1*bBfysBVGiuhHI-ROMOuUbg.png)
 
